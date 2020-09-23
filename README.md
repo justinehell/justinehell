@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for tips on **how to become web developper**
 
-- 👩‍💻 All of my projects will be available soon [[WIP portfolio]]([https://justinehell.fr/])
+- 👩‍💻 All of my projects will be available soon [[WIP portfolio]](https://justinehell.fr/)
 
 - 💬 Let's talk about **web development, JavaScript, design, UI/UX and more...**
 
