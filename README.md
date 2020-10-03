@@ -5,7 +5,7 @@
 
 - 🌍 I’m from **Lyon (FRANCE)**
 
-- 🌱 I’m currently learning **NodeJS & ExpressJS**
+- 🌱 I’m currently learning **NodeJS, ExpressJS, Gatsby & Strapi**
 
 - 🤝 I’m looking for tips on **how to become web developper**
 
