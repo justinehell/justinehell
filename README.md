@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Justine</h1>
 <h3 align="center">A passionate Front-End Junior Developer</h3>
 
-- 🌍 I’m from **Lyon (FRANCE)**
+- 🔭 I’m currently learning **JavaScript Testing Framework - Jest, Cypress**
 
-- 🌱 I’m currently working with **VueJS, VueX, Vuetify**
+- 🌱 I’m working with **VueJS Ecosystem - VueX, VueRouter, Vuetify**
 
 - 👩‍💻 All of my projects are available [here](https://justinehell.fr/)
 
