@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Justine</h1>
 <h3 align="center">A passionate Front-End Junior Developer</h3>
 
-- 🔭 I’m currently learning **JavaScript Testing Framework - Jest, Cypress**
+- 🔭 I’m currently learning **NuxtJS & JavaScript Testing Framework - Jest, Cypress**
 
 - 🌱 I’m working with **VueJS Ecosystem - VueX, VueRouter, Vuetify**
 
-- 👩‍💻 All of my projects are available [here](https://justinehell.fr/)
+- 👩‍💻 All of my projects are available [here](https://justinehell.fr/) (currently working on a new ✨ [Portolio with NuxtJS](https://github.com/justinehell/portfolio))
 
 - 📫 How to reach me **hell.justine@gmail.com**
 
