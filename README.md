@@ -5,7 +5,7 @@
 
 - 🌱 I’m working with **VueJS Ecosystem - VueX, VueRouter, Vuetify**
 
-- 👩‍💻 All of my projects are available [here](https://justinehell.fr/) (currently working on a new ✨ [Portolio with NuxtJS](https://github.com/justinehell/portfolio))
+- 👩‍💻 All of my projects are available [here](https://justinehell.fr/)
 
 - 📫 How to reach me **hell.justine@gmail.com**
 
