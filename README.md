@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justine</h1>
 <h3 align="center">A passionate Front-End Junior Developer</h3>
 
-- 🔭 I’m currently learning **Vue3 é Typescript**
+- 🔭 I’m currently learning **Vue3 & Typescript**
 
 - 🌱 I’m working with **VueJS Ecosystem - VueX, VueRouter, Vuetify**
 
