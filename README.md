@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Justine</h1>
 <h3 align="center">A passionate Front-End Junior Developer</h3>
 
-- 🔭 I’m currently learning **Vue3 & Typescript**
+- 🔭 I’m currently learning **JavaScript Testing Framework - Jest / Cypress**
 
-- 🌱 I’m working with **VueJS Ecosystem - VueX, VueRouter, Vuetify**
+- 🌱 I’m working with **VueJS Ecosystem - Vuex/Pinia, Vuetify/Quasar, VueRouter**
 
 - 👩‍💻 All of my projects are available [here](https://justinehell.fr/)
 
-- 📫 How to reach me **hell.justine@gmail.com**
+- 📫 How to reach me : **hell.justine@gmail.com**, or via [LinkedIn](https://www.linkedin.com/in/justinehell/)
 
 - ⚡ Fun fact **I'm a 🧀 lover and I've studied cheesemaking**
 
