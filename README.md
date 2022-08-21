@@ -17,6 +17,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/justinehell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="justinehell" height="30" width="30" /></a>
-<a href="https://instagram.com/justine_vhll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="justine_vhll" height="30" width="30" /></a>
 <a href="https://codepen.io/justinehell2912" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="justinehell2912" height="30" width="30" /></a>
 </p>
