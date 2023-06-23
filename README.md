@@ -9,7 +9,7 @@
 
 - 📫 How to reach me : **hell.justine@gmail.com**, or via [LinkedIn](https://www.linkedin.com/in/justinehell/)
 
-- ⚡ Fun fact **I'm a 🧀 lover and I've studied cheesemaking**
+- ⚡ Fun fact **I'm a 🧀 lover and I've studied cheesemaking** !
 
 ### Github anaytics 
 <p>
